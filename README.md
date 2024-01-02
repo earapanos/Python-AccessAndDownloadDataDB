@@ -4,6 +4,6 @@
 
 Hello! This code was developed by me using the python object oriented principles.
 
-The objective of this code is turn easy the access and download data from database. This is very important to 
+The objective of this code is turn easy the access and download data from database. This is an important step of Data Alytics because in this step we can filter and select a specific range of data relationed with a temporal time, or a type of information.
 
 <h1 align="center"> Oi! 👋 Sou o Eduardo, prazer! </h1>

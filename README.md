@@ -7,13 +7,3 @@ Hello! This code was developed by me using the python object oriented principles
 The objective of this code is turn easy the access and download data from database. This is very important to 
 
 <h1 align="center"> Oi! 👋 Sou o Eduardo, prazer! </h1>
-
-<h3 align="center"> Esse é meu repositório de Geoprocessamento, Análise e Ciência de Dados. </h3>
-
-## 🗨 Sobre a minha pessoa: 
-* ⚒ Sou Geólogo e Mestre em Geografia pela UFSC. Fui aprovado em ambas as titulações com nota máxima.
-* 🧭 Possuo +5 anos de experiência em Geoprocessamento e Sensoriamento Remoto. Atuei em diversos projetos de pesquisa.
-* 👨‍💻 Desde 2022 atuo na área de tecnologia. Sou analista de dados e de geoprocessamento, atuando com a coleta, análise e estruturação de dados utilizando o Python, SQL e o Looker Studio.
-* 🧠 Atualmente voltado ao aprimorento nas áreas de Análise e Ciência de Dados.
-
-<h2 align="left"> 🌎 GIS Softwares: </h2>

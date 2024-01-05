@@ -1,7 +1,4 @@
-<img src="https://www.canva.com/design/DAF4xfhLJ4A/ebhxp1nNdvn5E4fbYeqxoA/edit?utm_content=DAF4xfhLJ4A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
-<img src="https://www.flickr.com/photos/199829277@N07/53444376530/in/dateposted-public/"/>
-[![Python-AccessAndDownloadDataDB](https://i.postimg.cc/DyHV9DLP/Inserir-um-pouquinho-de-texto-1.png)](https://postimg.cc/QHQn5f6F)
-<h1 align="center"> 🐍 Python-AccessAndDownloadDataDB</h1>
+![readmepic](https://github.com/earapanos/Python-AccessAndDownloadDataDB/assets/52800638/686ed269-441c-439b-8625-4cba540dc15b)
 
 Hello! This code was developed by me using the python object oriented principles.
 
